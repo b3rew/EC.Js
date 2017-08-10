@@ -21,3 +21,14 @@
 - [ ] `fromJD` Create a new date for a given Julian date.
 - [ ] `toJSDate` Convert this date into the equivalent JavaScript Date
 - [ ] `toString` Retrieve a string representation of this date
+- [ ] Accepts new calendar type (Siltie, Oromo, Sidama and Borena) as a plugin
+- [ ] Localisation option for each calendar
+
+###### - You can also suggest more features on the issue section
+###### - Make a PR to contribute
+
+### Implementation Points
+
+- Leap years occur every four years on the third year of a cycle.
+- Each year has 12 months of 30 days and an intercalary month of 5 or 6 days, making 365 or 366 days in total.
+- The first day of the week is Ehud - እሁድ (Sunday).

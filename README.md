@@ -32,3 +32,12 @@
 - Leap years occur every four years on the third year of a cycle.
 - Each year has 12 months of 30 days and an intercalary month of 5 or 6 days, making 365 or 366 days in total.
 - The first day of the week is Ehud - እሁድ (Sunday).
+
+
+### Resources
+
+- [Ethiopian Calendar wikipedia](https://en.wikipedia.org/wiki/Ethiopian_calendar)
+- [Drs. Berhanu Beyene and Manfred Kudlek Geez Calendars](http://www.geez.org/Calendars/)
+
+
+

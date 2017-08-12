@@ -1,4 +1,4 @@
-﻿function pad(value, length) {
+﻿function stringer(value, length) {
     value = '' + value;
     return '000000'.substring(0, length - value.length) + value;
 }
@@ -60,8 +60,8 @@ function dateStruct(calendar, year, month, day) {
         },
         toString: function (sep) {
             sep = sep || '-';
-            return (this.year() < 0 ? sep : '') + pad(Math.abs(this.year()), 4) +
-                sep + pad(this.month(), 2) + sep + pad(this.day(), 2);
+            return (this.year() < 0 ? sep : '') + stringer(Math.abs(this.year()), 4) +
+                sep + stringer(this.month(), 2) + sep + stringer(this.day(), 2);
         }
     }
 }

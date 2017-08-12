@@ -1,0 +1,25 @@
+{
+  "name": "ec.js",
+  "version": "0.0.1",
+  "description": "Ethiopian calendar (የኢትዮጲያ የቀን መቁጠሪያ) for Javascript",
+  "main": "ec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3rew/EC.Js.git"
+  },
+  "keywords": [
+    "ethiopian",
+    "calendar",
+    "convert",
+    "javascript"
+  ],
+  "author": "b3rew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b3rew/EC.Js/issues"
+  },
+  "homepage": "https://github.com/b3rew/EC.Js#readme"
+}

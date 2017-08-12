@@ -11,6 +11,15 @@
 
 ```
 
+```
+ npm install ec.js --save
+
+ var EC = require('ec.js')
+
+```
+
+**Check the Usage section**
+
 
 
 ### Features 

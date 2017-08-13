@@ -1,7 +1,7 @@
 # EC.JS
 #### For Development Purpose (only 20 % done)
 
-***EC.Js*** (Ethiopian calendar- የኢትዮጲያ የቀን መቁጠሪያ) aims to implement  [Ethiopian Calendar](https://en.wikipedia.org/wiki/Ethiopian_calendar) conversion plus more other functionalities
+***EC.Js*** (Ethiopian calendar- የኢትዮጲያ የቀን መቁጠሪያ) aims to implement  [Ethiopian Calendar](https://en.wikipedia.org/wiki/Ethiopian_calendar) conversion plus other functionalities
 
 
 ### Installation
